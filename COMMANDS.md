@@ -6,4 +6,5 @@ anyscale login
 
 aws configure --profile aidan-do
 
+anyscale cloud setup
 ```
